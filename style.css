@@ -1,0 +1,26 @@
+.wrapper {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	max-width: 1440px;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+
+.block_left {
+	display: block;
+	margin: 0;
+	padding: 0;
+	width: 755px;
+	height: 994px;
+  background: url(/images/LeftImage.jpg) no-repeat center /contain;
+}
+
+.block_right {
+	width: 685px;
+	display: inline-block;
+}
