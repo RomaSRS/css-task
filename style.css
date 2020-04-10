@@ -18,7 +18,7 @@
 	padding: 0;
 	width: 760px;
 	height: 995px;
-	background: url(/assets/images/LeftImage.jpg) no-repeat center /contain;
+	background: url(asets/images/LeftImage.jpg) no-repeat center /contain;
 	background-size: cover;
 }
 
@@ -315,7 +315,7 @@ input[type="radio"]:checked + label:after {
 
 @font-face {
 	font-family: "BarlowRegular"; 
-	src: url(/assets/fonts/Barlow-Regular.otf) format("truetype"); 
+	src: url(assets/fonts/Barlow-Regular.otf) format("truetype"); 
 	font-style: normal; 
 	font-weight: normal; 
 }
