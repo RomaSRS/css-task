@@ -263,7 +263,6 @@ input[type="radio"]:checked + label:after {
 
 .input_checkbox_text::before {
 	content: "";
-	width: 18px;
 	height: 18px;
 	position: absolute;
 	left: 0px;
@@ -283,7 +282,6 @@ input[type="radio"]:checked + label:after {
 
 .input_checkbox_text::after {
   content: "";
-	width: 18px;
 	height: 18px;
 	position: absolute;
 	left: 0px;
